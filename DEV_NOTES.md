@@ -14,3 +14,7 @@ Personal development log — notes, findings, and ongoing work.
 - Reviewed codebase, identified areas for improvement
 - Noted known limitation in docs
 - Ran linter, applied auto-fixes
+
+## 2026-03-23
+- Reviewed security headers configuration
+- Reorganised test fixtures
