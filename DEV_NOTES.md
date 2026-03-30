@@ -33,3 +33,7 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-03-30
 - Refactored module structure for clarity
 - Added type hints to helper functions
+
+## 2026-03-30
+- Checked for memory leaks in long-running path
+- Reviewed open issues, added labels
