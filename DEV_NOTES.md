@@ -29,3 +29,7 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-03-30
 - Updated .gitignore to exclude build artifacts
 - Drafted initial implementation plan for v2
+
+## 2026-03-30
+- Refactored module structure for clarity
+- Added type hints to helper functions
