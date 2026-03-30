@@ -37,3 +37,7 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-03-30
 - Checked for memory leaks in long-running path
 - Reviewed open issues, added labels
+
+## 2026-03-30
+- Updated CI cache strategy
+- Wrote notes on upcoming feature design
