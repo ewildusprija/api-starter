@@ -50,3 +50,8 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-04-13
 - Improved error handling in edge cases
 - Consolidated duplicate helper functions
+
+## 2026-04-13
+- Resolved deprecation warnings
+- Tested build on clean environment
+- Added CONTRIBUTING.md stub
